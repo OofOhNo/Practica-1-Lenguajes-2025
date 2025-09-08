@@ -17,4 +17,4 @@ como correrlo?
     abri una terminal en la carpeta donde guardaste el archivo.
     ejecuta el programa con:
         python piedra_papel_tijera.py
-    segui las instrucciones en pantalla: primero pone la cantidad de rondas, despues elegi tu jugada cada vez.
+    segui las instrucciones en pantalla: primero pone la cantidad de rondas, despues elegi tu jugada cada vez, hasta que alguien gane, o empaten.
